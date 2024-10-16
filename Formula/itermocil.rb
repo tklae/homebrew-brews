@@ -7,7 +7,7 @@ class Itermocil < Formula
   sha256 "9810fc457bc6430f49f8eee32ceb6d56e316d8fda2ddcb8172b0ead1c025fd59"
   license "MIT"
 
-  depends_on "python@3.10"
+  depends_on "python@3.13"
 
   resource "PyYAML" do
     url "https://files.pythonhosted.org/packages/cd/e5/af35f7ea75cf72f2cd079c95ee16797de7cd71f29ea7c68ae5ce7be1eda0/PyYAML-6.0.1.tar.gz"
